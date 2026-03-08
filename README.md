@@ -1,20 +1,53 @@
-## Hi there! 👋
-I'm Vishwa Selvam, a passionate artist, 3D modeler, and designer based in India. Welcome to my GitHub profile! Here's a little about me:
+## Hi 👋 I'm Vishwa
 
-### About Me
-- 🎨 I'm deeply passionate about art and design, and I specialize in creating surrealistic artworks.
-- 🖌️ As a 3D modeler and Animator (Trying to be), I love bringing my creative visions to life.
-- ✨ My goal is to evoke emotions and inspire others through my work, whether it's a captivating painting, or a detailed 3D model.
-- 📝 Love Reading Books - Novels, Histroy, Art, and Psychology.
+I’m a designer and visual storyteller from India.
 
-### Let's Connect!
-- 🔗 Connect with me on LinkedIn if needed.
-- 🌐 Visit my portfolio website: https://drawingdnaunleashed.com/ to explore more of my work and learn about my artistic journey.
-- 📧 Feel free to reach out to me at drawingdnaoff@gmail.com to discuss collaborations, art commissions, or just to chat about art and design!
+I work across **graphic design, UI, and 3D**, trying to create visuals that communicate ideas and emotions clearly — sometimes things that are hard to explain with long sentences.
 
-Thank You for Visiting! Feel free to reach out, connect, and collaborate—I'd love to hear from you!
+Most of the time I'm interested in one simple question:
 
-<!---
-vishwa-selvam-18/vishwa-selvam-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> *Can this idea be understood instantly without needing explanation?*
+
+If the answer is yes, I feel like the design is doing its job.
+
+---
+
+### What I Like Working On
+
+- Visual storytelling through design
+- UI and digital experiences that feel natural to use
+- 3D visuals and product visualization
+- Branding and identity systems
+- Projects where design helps communicate something meaningful
+
+I enjoy creating work that **looks good**, but more importantly **works without making people think too much about the design itself**.
+
+---
+
+### Currently Exploring
+
+- Improving my **3D modeling, lighting, and rendering**
+- Combining **design + motion + 3D**
+- Building projects that connect **storytelling with visual systems**
+
+---
+
+### Outside Work
+
+When I’m not designing, I usually spend time with:
+
+- 📚 Books (history, psychology, novels, art)
+- 🎨 Drawing and personal artwork
+- 🌱 Learning new tools and ideas
+
+---
+
+### Connect
+
+🌐 Portfolio  
+https://drawingdnaunleashed.com
+
+📧 Email  
+drawingdnaoff@gmail.com
+
+Feel free to reach out if you want to talk about **design, ideas, collaborations, or interesting projects.**
